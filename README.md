@@ -33,3 +33,5 @@ A tool designed to generate correct PPK geotags for simultaneous drone flights, 
 
    ```bash
    python ppk_simultaneous.py
+
+4. Input directories for rinex, rtk, and exif.json
